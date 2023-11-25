@@ -9,8 +9,3 @@ def order(sentence):
         ordered_list[no - 1] = word
     
     return ' '.join(ordered_list)
-
-
-
-if __name__ == '__main__':
-    print(order(""))
