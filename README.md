@@ -1,2 +1,7 @@
 # Codewars
-Repository with solution to tasks from Codewars
+Repository with solutions to tasks from Codewars
+
+Languages:
+  - Python
+  - Shell
+  - C
