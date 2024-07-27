@@ -1,4 +1,4 @@
-# Python Kata
+# Solved Python Kata List
 
 | Name  | Level | Date  | Link to Kata description
 |-------|-------|-------|-------------------------

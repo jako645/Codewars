@@ -1,3 +1,5 @@
+# Solved Shell Kata List
+
 | Name  | Level | Date  | Link to Kata description
 |-------|-------|-------|-------------------------
 | [Sums of Parts](/Shell/sums-of-parts.sh) | 6 kyu | 17-02-2024 | [link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
