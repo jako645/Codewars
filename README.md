@@ -8,7 +8,7 @@ This repository conatins solutions to Kata from [Codewars platfrom](https://www.
 
 But there will be more in the future!
 
-## Here you can reach me
+## If you want to contact me
 
 Check my:
   - [Linkedin](https://www.linkedin.com/in/jakubkokosinski/),
