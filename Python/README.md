@@ -2,6 +2,7 @@
 
 | Name                                                                                                                          | Level | Date       | Link to Kata description                                        |
 |-------------------------------------------------------------------------------------------------------------------------------|-------|------------|-----------------------------------------------------------------|
+| [Path Finder #1](/Python/PathFinder#1.py)                                                                                     | 4 kyu | 25-10-2024 | [link](https://www.codewars.com/kata/5765870e190b1472ec0022a2/) |
 | [Sum by factors](/Python/SumByFactors.py)                                                                                     | 4 kyu | 23-10-2024 | [link](https://www.codewars.com/kata/54d496788776e49e6b00052f/) |
 | [Smallest possible sum](/Python/SmallestPossibleSum.py)                                                                       | 4 kyu | 23-10-2024 | [link](https://www.codewars.com/kata/52f677797c461daaf7000740)  |
 | [Vigenère Cipher Helper](/Python/VigenereCipherHelper.py)                                                                     | 4 kyu | 21-07-2024 | [link](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3)  |
