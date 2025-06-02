@@ -2,6 +2,7 @@
 
 | Name                                                                                                                          | Level | Date       | Link to Kata description                                        |
 |-------------------------------------------------------------------------------------------------------------------------------|-------|------------|-----------------------------------------------------------------|
+| [Take a Ten Minutes Walk](/Python/TakeATenMinuteWalk.py)                                                                      | 6 kyu | 03-06-2025 | [link](https://www.codewars.com/kata/54da539698b8a2ad76000228)                                                        |
 | [Path Finder 2](/Python/PathFinder2.py)                                                                                       | 4 kyu | 16-11-2024 | [link](https://www.codewars.com/kata/57658bfa28ed87ecfa00058a/) |
 | [Path Finder 1](/Python/PathFinder1.py)                                                                                       | 4 kyu | 25-10-2024 | [link](https://www.codewars.com/kata/5765870e190b1472ec0022a2/) |
 | [Sum by factors](/Python/SumByFactors.py)                                                                                     | 4 kyu | 23-10-2024 | [link](https://www.codewars.com/kata/54d496788776e49e6b00052f/) |

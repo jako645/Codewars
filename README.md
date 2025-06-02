@@ -1,8 +1,8 @@
-# Codewars - Kata solutions
+# Codewars—Kata solutions
 
 ## Project description
 
-This repository conatins solutions to Kata from [Codewars platfrom](https://www.codewars.com/). For now, I have published here code in:
+This repository contains solutions to Kata from [Codewars platfrom](https://www.codewars.com/). For now, I have published here code in:
   - [Python](/Python/),
   - and [Shell](/Shell/).
 
