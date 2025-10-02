@@ -4,6 +4,7 @@
 
 This repository contains solutions to Kata from [Codewars platfrom](https://www.codewars.com/). For now, I have published here code in:
   - [Python](/Python/),
+  - [C](/C/),
   - and [Shell](/Shell/).
 
 But there will be more in the future!
