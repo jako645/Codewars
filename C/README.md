@@ -1,4 +1,4 @@
-# Solved Shell Kata List
+# Solved C Kata List
 
 | Name  | Level | Date  | Link to Kata description
 |-------|-------|-------|-------------------------
