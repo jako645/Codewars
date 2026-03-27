@@ -2,6 +2,7 @@
 
 | Name  | Level | Date  | Link to Kata description
 |-------|-------|-------|-------------------------
+| [Fix string case](/C/fix_string_case.c) | 7 kyu | 27-03-2026 | [link](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/c)
 | [Word Values](/C/word_values.c) | 7 kyu | 16-03-2026 | [link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)
 | [Stalin Sort](/C/stalin_sort.c) | 7 kyu | 13-03-2026 | [link](https://www.codewars.com/kata/699af631058f5c12b04f4efe)
 | [Area or Perimeter](/C/area_or_perimeter.c) | 8 kyu | 02-10-2025 | [link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)
