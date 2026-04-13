@@ -2,6 +2,7 @@
 
 | Name  | Level | Date  | Link to Kata description
 |-------|-------|-------|-------------------------
+| [Braking well](/C/braking_well.c) | 6 kyu | 13-04-2026 | [link](https://www.codewars.com/kata/565c0fa6e3a7d39dee000125/)
 | [The Walker](/C/the_walker.c) | 6 kyu | 10-04-2026 | [link](https://www.codewars.com/kata/5b40b666dfb4291ad9000049)
 | [Fix string case](/C/fix_string_case.c) | 7 kyu | 27-03-2026 | [link](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/c)
 | [Word Values](/C/word_values.c) | 7 kyu | 16-03-2026 | [link](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)
