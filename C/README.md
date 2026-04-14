@@ -2,6 +2,7 @@
 
 | Name  | Level | Date  | Link to Kata description
 |-------|-------|-------|-------------------------
+| [Well efficiency calculator](/C/well_efficiency_calculator.c) | 6 kyu | 14-04-2026 | [link](https://www.codewars.com/kata/5649b9f069dacef88400005e/)
 | [Braking well](/C/braking_well.c) | 6 kyu | 13-04-2026 | [link](https://www.codewars.com/kata/565c0fa6e3a7d39dee000125/)
 | [The Walker](/C/the_walker.c) | 6 kyu | 10-04-2026 | [link](https://www.codewars.com/kata/5b40b666dfb4291ad9000049)
 | [Fix string case](/C/fix_string_case.c) | 7 kyu | 27-03-2026 | [link](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/c)
